@@ -1,4 +1,4 @@
-# petprojects
+# Petprojects
 
 Welcome to my repository of pet projects! These projects highlight my passion for data science, and you'll find a range of topics I've explored.
 
